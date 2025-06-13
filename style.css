@@ -1,0 +1,128 @@
+/* Reset */
+
+html,
+body,
+div,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+p,
+blockquote,
+fieldset,
+input {
+    margin: 0;
+    padding: 0;
+    background-color: #2f3546;
+    color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+address,
+caption,
+cite,
+code,
+em,
+strong,
+th {
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+fieldset,
+img {
+    border: none;
+}
+
+caption,
+th {
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+.keyword {
+    color: #94d8d6;
+}
+
+.type.builtin,
+.keyword.function {
+    color: #94d8d6;
+}
+
+.function {
+    color: #38dfbd;
+}
+
+.function-call {
+    color: #d8dee9;
+}
+
+.variable.parameter {
+    color: #2cbde3;
+}
+
+.variable {
+    color: #3dd9e2;
+}
+
+.member,
+.property {
+    color: #38dfbd;
+}
+
+.string {
+    color: #c1e82c;
+}
+
+.comment {
+    color: #535f76;
+}
+
+.type {
+    color: #ef6a1a;
+}
+
+.parameter {
+    color: #ee235b;
+}
+
+.constant {
+    color: #f1a931;
+}
+
+.number {
+    color: #2cbde3;
+}
+
+.operator {
+    color: #ff1d9b;
+}

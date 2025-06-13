@@ -1,0 +1,218 @@
+/* .variable {
+    color: #3dd9e2;
+}
+
+.variable.other.object {
+    color: #3dd9e2;
+}
+
+.variable.language.this,
+.variable.language.super {
+    color: #3dd9e2;
+    font-style: italic;
+}
+
+.variable.parameter {
+    color: #2cbde3;
+}
+
+.variable.other.constant {
+    color: #4fc1ff;
+}
+
+.comment {
+    color: #535f76;
+    font-style: italic;
+}
+
+.string.quoted.single {
+    color: #c1e82c;
+}
+
+.string.quoted.double {
+    color: #c1e82c;
+}
+
+.string.template,
+.template_string {
+    color: #c1e82c;
+}
+
+.meta.template.expression {
+    color: #dcdcaA;
+}
+
+.punctuation.definition.string.begin,
+.punctuation.definition.string.end {
+    color: #d4d4d4;
+}
+
+.punctuation.definition.string.template.begin,
+.punctuation.definition.string.template.end {
+    color: #d4d4d4;
+}
+
+.string.regexp {
+    color: #d16969;
+}
+
+.constant.character.escape {
+    color: #d7ba7d;
+    font-style: italic;
+}
+
+.constant.numeric {
+    color: #2cbde3;
+}
+
+.entity.name.function {
+    color: #38dfbd;
+    font-weight: normal;
+}
+
+.meta.definition.method {
+    color: #38dfbd;
+    font-weight: normal;
+}
+
+.storage.type.constructor {
+    color: #38dfbd;
+}
+
+.keyword.generator.asterisk {
+    color: #38dfbd;
+    font-style: normal;
+}
+
+.entity.name.type,
+.entity.name.type.class,
+.entity.name.type.alias,
+.entity.name.type.interface,
+.entity.name.type.enum {
+    color: #ef6a1a;
+}
+
+.entity.other.inherited-class {
+    color: #ef6a1a;
+}
+
+.new.expr {
+    color: #ef6a1a;
+}
+
+.support.type.primitive {
+    color: #4ec9b0;
+    font-style: italic;
+}
+
+.support.type {
+    color: #4ec9b0;
+}
+
+.keyword.control,
+.keyword.operator.expression.typeof,
+.keyword.operator.expression.instanceof,
+.keyword.operator.expression.of,
+.keyword.operator.expression.is,
+.keyword.operator.expression.void,
+.keyword.operator.new,
+.keyword.ts,
+.keyword {
+    color: #94d8d6;
+    font-weight: normal;
+}
+
+.keyword.function {
+    color: #94d8d6;
+}
+
+.keyword.operator.logical,
+.keyword.operator.arithmetic,
+.keyword.operator.relational,
+.keyword.operator.assignment,
+.keyword.operator.assignment.compound,
+.keyword.operator.increment,
+.keyword.operator.decrement,
+.keyword.operator.type,
+.keyword.operator.type.annotation,
+.keyword.operator.ternary,
+.keyword.operator.optional,
+.keyword.operator.rest,
+.keyword.operator.spread {
+    color: #ff1d9b;
+}
+
+.storage.modifier {
+    color: #94d8d6;
+    font-style: normal;
+}
+
+.storage.type,
+.storage.type.type,
+.storage.type.namespace {
+    color: #ef6a1a;
+    font-weight: bold;
+}
+
+.punctuation,
+.punctuation.delimiter {
+    color: #d4d4d4;
+}
+
+.punctuation.accessor.optional {
+    color: #d4d4d4;
+}
+
+.punctuation {
+    color: #d4d4d4;
+}
+
+.constant.language.null,
+.constant.language.undefined {
+    color: #94d8d6;
+    font-style: italic;
+}
+
+.constant.language.nan,
+.constant.language.infinity {
+    color: #94d8d6;
+    font-style: italic;
+}
+
+.constant.language.boolean.true,
+.constant.language.boolean.false {
+    color: #94d8d6;
+    font-weight: bold;
+}
+
+.support.type.builtin {
+    color: #4ec9b0;
+    font-style: italic;
+}
+
+.punctuation.definition.template-expression.begin,
+.punctuation.definition.template-expression.end {
+    color: #d4d4d4;
+}
+
+.punctuation.definition.typeparameters.begin,
+.punctuation.definition.typeparameters.end {
+    color: #d4d4d4;
+}
+
+.keyword.operator.ternary,
+.punctuation {
+    color: #94d8d6;
+}
+
+.support.class.promise {
+    color: #4ec9b0;
+}
+
+.entity.name.function {
+    color: #38dfbd;
+}
+
+.punctuation {
+    color: #d4d4d4;
+} */

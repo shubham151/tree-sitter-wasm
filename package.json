@@ -1,0 +1,25 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "cp node_modules/web-tree-sitter/tree-sitter.wasm public/tree-sitter.wasm",
+    "start": "nodemon --watch . --exec \"http-server\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10",
+    "tree-sitter": "^0.21.1",
+    "tree-sitter-highlight": "^1.0.1",
+    "tree-sitter-typescript": "^0.23.2",
+    "type-is": "^2.0.1",
+    "vite": "^6.3.5",
+    "web-tree-sitter": "^0.25.5"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
